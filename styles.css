@@ -100,14 +100,14 @@
         text-align: center;
     }
     
-    .home .contenido-home img {
+    .home .contenedor-img img {
         margin-top: 40px;
         display: block;
         width: 100%;
         margin: auto;
         border-radius: 100%;
         position: relative;
-        bottom: -39px;
+        bottom: -51px;
     }
     
     .home .contenido-home h1 {
