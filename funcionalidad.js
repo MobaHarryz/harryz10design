@@ -1,5 +1,5 @@
 let menuVisible = false;
-//Funcion que ocultal o muestra el menu
+//Funcion que oculta o muestra el menu
 function mostrarOcultarMenu() {
     if (menuVisible) {
         document.getElementById("nav").classList = "";

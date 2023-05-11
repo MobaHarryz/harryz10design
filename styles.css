@@ -978,6 +978,10 @@
     }
     
     @media screen and (max-width:780px) {
+        .home .contenido-home h2 {
+            display: block;
+            font-size: 15px;
+        }
         .about .fila {
             display: block;
         }
